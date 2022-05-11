@@ -1,0 +1,42 @@
+* {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+header{
+  background-image: url(./image/tree.webp);
+  background-size: cover;
+  background-position: center bottom;
+  
+ 
+  
+}
+
+header.banner .bg {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
+  height: 100vh;
+  text-align: center;
+  padding: 2rem;
+}
+button{
+  width: 6.5rem;
+  height: 0.8rem;
+  background-color: gray;
+  margin-bottom: 4rem;
+  margin-left: 1rem;
+
+  
+}
+.button{
+    text-align: center;
+    
+   
+}
+button:hover{
+    background-color: brown;
+}
+.button .btn1{
+  background-color: brown;
+}
+
